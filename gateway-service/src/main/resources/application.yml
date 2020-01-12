@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: gateway-service
+  security:
+    oauth2:
+      client:
+        registration:
+          facebook:
+            client-id: 457067521902879
+            client-secret: 96b7ec12588bbe360fba8a51223db5c9
